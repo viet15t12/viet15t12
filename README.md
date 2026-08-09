@@ -1,16 +1,19 @@
-<!-- <div align="center">
+<div align="center">
 
-<img src="./assets/nqv-terminal.svg" width="100%" alt="Nguyễn Quốc Việt — terminal profile"/>
+<!-- <img src="./assets/nqv-terminal.svg" width="100%" alt="Nguyễn Quốc Việt — terminal profile"/> -->
 
-<br> -->
+<br>
 
 <a href="mailto:quocviet15t12@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-QUOCVIET15T12%40GMAIL.COM-ff1744?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-QUOCVIET15T12%40GMAIL.COM-2478ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<img src="https://img.shields.io/badge/LINUX-SYSTEMS-ff1744?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Systems"/>
-<img src="https://img.shields.io/badge/NETWORK-ENGINEERING-ff1744?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineering"/>
-<img src="https://img.shields.io/badge/CISCO-CCNA-ff1744?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
-<img src="https://komarev.com/ghpvc/?username=quocviet15t12&style=for-the-badge&color=ff1744&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://vietnguyen.io.vn">
+  <img src="https://img.shields.io/badge/WEBSITE-VIETNGUYEN.IO.VN-2478ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+<img src="https://img.shields.io/badge/LINUX-SYSTEMS-2478ff?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Systems"/>
+<img src="https://img.shields.io/badge/NETWORK-ENGINEERING-2478ff?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineering"/>
+<img src="https://img.shields.io/badge/CISCO-CCNA-2478ff?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
+<img src="https://komarev.com/ghpvc/?username=quocviet15t12&style=for-the-badge&color=2478ff&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 

@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="./assets/nqv-terminal.svg" width="100%" alt="Nguyễn Quốc Việt — terminal profile"/>
 
-<br>
+<br> -->
 
 <a href="mailto:quocviet15t12@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-QUOCVIET15T12%40GMAIL.COM-ff1744?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>

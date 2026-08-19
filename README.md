@@ -28,10 +28,16 @@ Telecommunications student at **PTIT** (Posts and Telecommunications Institute o
 | | |
 |---|---|
 | **Languages** | Go, Python |
-| **Systems** | Linux sever |
+| **Systems** | Linux Server |
 | **Networking** | Cisco IOS, CCNA, EVE-NG |
 | **Database** | PostgreSQL |
 
-## Codewars
+## Coding Practice
+
+### Codewars
 
 [![quocviet15t12's Codewars stats](https://www.codewars.com/users/quocviet15t12/badges/large)](https://www.codewars.com/users/quocviet15t12)
+
+### HackerRank
+
+<img src="./assets/hackerrank/python-silver.svg" width="80" alt="HackerRank Python Silver Badge">

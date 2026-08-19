@@ -22,14 +22,13 @@ Telecommunications student at **PTIT** (Posts and Telecommunications Institute o
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,python,bash,powershell,linux,fedora,postgres,git,latex&perline=10" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=go,python,linux,postgres,git&perline=10" alt="Tech stack icons" />
 </p>
 
 | | |
 |---|---|
 | **Languages** | Go, Python |
-| **Scripting** | Bash, PowerShell, Batch |
-| **Systems** | Linux (Fedora), Windows |
+| **Systems** | Linux sever |
 | **Networking** | Cisco IOS, CCNA, EVE-NG |
 | **Database** | PostgreSQL |
 

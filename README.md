@@ -1,60 +1,51 @@
 <div align="center">
 
-<!-- <img src="./assets/nqv-terminal.svg" width="100%" alt="Nguyễn Quốc Việt — terminal profile"/> -->
+# Hi, I'm Nguyễn Quốc Việt 👋
 
-<br>
+**Telecommunications student → aspiring DevOps engineer**
 
-<a href="mailto:quocviet15t12@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-QUOCVIET15T12%40GMAIL.COM-2478ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://vietnguyen.io.vn">
-  <img src="https://img.shields.io/badge/WEBSITE-VIETNGUYEN.IO.VN-2478ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
-</a>
-<img src="https://img.shields.io/badge/LINUX-SYSTEMS-2478ff?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Systems"/>
-<img src="https://img.shields.io/badge/NETWORK-ENGINEERING-2478ff?style=for-the-badge&logo=cisco&logoColor=white" alt="Network Engineering"/>
-<img src="https://img.shields.io/badge/CISCO-CCNA-2478ff?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco CCNA"/>
-<img src="https://komarev.com/ghpvc/?username=quocviet15t12&style=for-the-badge&color=2478ff&label=PROFILE+VIEWS" alt="Profile views"/>
+📍 Ho Chi Minh City, Vietnam · 🎓 PTIT (Faculty of Telecommunications II)
+
+[🇻🇳 Đọc bằng Tiếng Việt](./README.vi.md)
 
 </div>
 
 ---
 
-## `root@nqv:~# whoami`
+### About Me
 
-```text
-Nguyen Quoc Viet
-Telecommunications Engineering student at the Posts and Telecommunications Institute of Technology (PTIT), Ho Chi Minh City Campus.
+- 🎓 Studying at **Posts and Telecommunications Institute of Technology (PTIT)**, HCMC campus, class **D24CQVT01-N**
+- 🔬 Working on **NetworkTools**, a student research (NCKH) project combining **Go, LLM/AI, and Cisco network automation**
+- 🎯 Long-term goal: becoming a **DevOps engineer**
+- 🐧 Daily driver: **Fedora Linux** (dual-boot with Windows 11), JetBrains IDEs
+- 🌱 Currently exploring: **CCNA**, network automation, and AI-assisted coding workflows
 
-I'm building a solid foundation in Linux systems, network infrastructure, and automation — working toward a long-term goal of becoming a DevOps Engineer.
+---
 
-My growth path:
-Linux System Administration → Network Engineering → Automation → DevOps
+### 🛠️ Tech Stack
 
-I'm currently part of the student research project (NCKH) NetworkTools — a configuration management and automation tool for Cisco IOS devices, where I work on backend development, database design, and the desktop frontend.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,python,bash,powershell,linux,fedora,git,github,latex,sqlite&perline=10" alt="Tech stack icons" />
+</p>
 
-I believe combining a strong telecommunications background with modern automation and systems-operations thinking is the path to becoming a well-rounded DevOps engineer.
-```
+| Category | Tools |
+|---|---|
+| Languages | Go, Python |
+| Scripting | Bash, PowerShell, Batch |
+| OS | Fedora Linux, Windows 11 |
+| IDEs | PyCharm, GoLand, DataGrip |
+| Networking | Cisco IOS, EVE-NG (KVM/QEMU), CCNA |
+| Docs | LaTeX, Markdown |
+| Other | SQLite, Obsidian |
 
-## `root@nqv:~# cat stack.conf`
+---
 
-```ini
-[core]
-languages = C++, Python, Go
-systems    = Linux Administration, Services, Permissions, Networking
-networking = Cisco IOS, Routing, Switching, TCP/IP
-platform   = Fedora Linux
-tools      = Git, VS Code, EVE-NG, PostgreSQL, SQLite
+### 🏆 Codewars
 
-[current_mission]
-primary    = Linux Systems
-secondary  = Network Engineering
-cert_track = Cisco CCNA
-status     = Building labs, troubleshooting, automating
-```
+[![quocviet15t12's Codewars stats](https://www.codewars.com/users/quocviet15t12/badges/large)](https://www.codewars.com/users/quocviet15t12)
 
-<div align="center">
+---
 
-<!-- <img src="https://skillicons.dev/icons?i=cpp,python,go,linux,git,postgres&theme=dark" alt="Technology stack"/> -->
+### 📫 Contact
 
-</div>
-
+<!-- Add your preferred contact links here, e.g. Email / LinkedIn / Facebook -->

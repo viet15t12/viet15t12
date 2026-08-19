@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nguyễn Quốc Việt
+# Nguyen Quoc Viet
 
 **Network Engineer & SysAdmin (in progress) → DevOps**
 
